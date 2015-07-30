@@ -27,7 +27,6 @@ To insert JavaScript files in your Rails app, add following line in your `app/as
 	//= require truncate_html_text_main
 ```
 
-### <%= truncate_html_text_tag(html_element, text, options{})%>
 
 ```rails
 	<%= truncate_html_text_tag(:div, '<p>Truncate Html <i>text</i></p>')%>
