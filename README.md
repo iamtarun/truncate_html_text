@@ -1,3 +1,9 @@
+[![Gem Version](https://badge.fury.io/rb/truncate_html_text.svg)][gem]
+[![License](http://img.shields.io/license/MIT.png?color=green)][license]
+
+[gem]: http://badge.fury.io/rb/truncate_html_text
+[license]: http://opensource.org/licenses/MIT
+
 # TruncateHtmlText
 
 This gem allows users to truncate html or non-html text by using options.
