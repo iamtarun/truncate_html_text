@@ -1,9 +1,9 @@
-require 'test/unit'
+require "minitest/autorun"
 
-class TestHelperMethod < Test::Unit::TestCase
+class TestHelperMethod < Minitest::Test
   
-  test "the truth" do
+	def test_that_kitty_can_eat
     assert true
   end
 
-end  
+end
